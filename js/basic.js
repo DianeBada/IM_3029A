@@ -4,7 +4,7 @@ $(document).ready(function(){
 
 })
 
-nav_icon = document.getElementById('nav_icon');
+nav_icon = document.getElementById('burger_button');
   main_menu = document.getElementById('main_menu');
   menuList = document.querySelectorAll('.main_menu ul li a');
   current = 1 

@@ -1,4 +1,4 @@
-const container = document.querySelector(".service-container");
+const container = document.querySelector(".cards-container");
 const cards = document.querySelector(".cards");
 
 
@@ -15,6 +15,7 @@ container.addEventListener("mousedown", (e) =>{
  /* offsetLeft returns the number of pixels that the upper left corner of the current elemnt is offset to th left within the HTMLELEMENT.offsetParent node. */
  isPressedDown = true;  
   cursorXSpace = e.offsetX - cards.offsetLeft;
+  console.log(e.offsetX);
 } )
 
 window.addEventListener("mouseup", () =>{
