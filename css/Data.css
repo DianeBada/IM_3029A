@@ -54,6 +54,7 @@ body {
         
     font-family: "Press Start 2P", cursive;
     font-size: 0.8em;
+    
         
       
   }
@@ -61,6 +62,7 @@ body {
   #tree-map svg.movies{
     font-family: "Press Start 2P", cursive;
           font-size: 0.8em;
+          
   }
   
   /* tooltip */
@@ -97,5 +99,6 @@ body {
   .mt-3{
     padding-left: 550px;
   }
+ 
   
  
