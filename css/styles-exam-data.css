@@ -1746,20 +1746,28 @@ body {
   .solar-title{
     font-size: 20px;
     margin-top: 30px;
-    margin-left: -8px;
+    margin-left: -30px;
   }
 
-  .solar-subtitle{
-    font-size: 15px;
-    margin-left: -8px;
+  .solar-subtitle h1{
 
+
+  }
+
+  #navbar h2{
+    margin-left: -10px;
 
   }
 
   #examlink-data {
     margin-top: -85px;
-    margin-left: 135px;
     font-size: 14px;
+  }
+  #examlink-data a{
+
+    margin-left: -110px;
+
+
   }
 }
 
