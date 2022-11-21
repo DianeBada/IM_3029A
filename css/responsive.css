@@ -438,7 +438,23 @@ position: absolute;
 
   .blog-container h1{
 
-    font-size: 10px;
+    font-size: 30px;
+    margin-left: -20px;
+  }
+
+  .blog-container h2{
+
+    font-size: 20px;
+    margin-left: -20px;
+    
+
+  }
+
+  .blog-container figure {
+
+   width: 400px;
+   height: 100px;
+   margin-left: 150px;
   }
 
   .source-links{
@@ -448,6 +464,30 @@ position: absolute;
   .blog-post li{
     color: white;
   }
+
+  .tree-data img{
+    width: 50px;
+    height: 50px;
+    margin-left: -50px;
+  }
+
+  .blog-post figure{
+    width: 300px;
+    height: 100px;
+    margin-bottom: 400px;
+  }
+
+  .blog-four{
+  }
+
+  .blog-caption{
+    font-size: 10px;
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-left: 60px;
+    margin-right: 60px;
+  }
+  
 
 
     .card-stats .stat {
@@ -854,6 +894,16 @@ font-size: 15px;
       margin-top: -40px;
     }
 
+    .blog-container h1{
+
+      font-size: 20px;
+      margin-left: -20px;
+    }
+  
+    .blog-container h2{
+  
+      font-size: 10px;
+      margin-left: -20px;
 
     .card {
       display: grid;

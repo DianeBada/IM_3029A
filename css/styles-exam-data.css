@@ -1742,6 +1742,25 @@ body {
   .logo p{
     margin-left: -23px;
   }
+
+  .solar-title{
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: -8px;
+  }
+
+  .solar-subtitle{
+    font-size: 15px;
+    margin-left: -8px;
+
+
+  }
+
+  #examlink-data {
+    margin-top: -85px;
+    margin-left: 135px;
+    font-size: 14px;
+  }
 }
 
 @media (max-width: 1200px)
@@ -1787,4 +1806,24 @@ body {
   .logo p{
     margin-left: -23px;
   }
+
+  .solar-title{
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: -8px;
+  }
+
+  .solar-subtitle{
+    font-size: 15px;
+    margin-left: -8px;
+
+
+  }
+
+  #examlink-data {
+    margin-top: -85px;
+    margin-left: 255px;
+    font-size: 14px;
+  }
+  
 }
